@@ -42,9 +42,10 @@
   height: 100px;
   border-radius: 50%
 }
-#arrange{
+/* #arrange{
   display: flex;
   justify-content: center;
   gap: 9rem;
   height: 100%;
-}
+  width: 100px;
+} */
